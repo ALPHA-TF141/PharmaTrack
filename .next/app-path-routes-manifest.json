@@ -3,9 +3,9 @@
   "/favicon.ico/route": "/favicon.ico",
   "/batch-tracking/page": "/batch-tracking",
   "/budget/page": "/budget",
+  "/compliance/page": "/compliance",
+  "/formulas/page": "/formulas",
   "/inventory/page": "/inventory",
   "/page": "/",
-  "/formulas/page": "/formulas",
-  "/compliance/page": "/compliance",
   "/login/page": "/login"
 }
