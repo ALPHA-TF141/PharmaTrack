@@ -1,11 +1,10 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/batch-tracking/page": "app/batch-tracking/page.js",
+  "/page": "app/page.js",
+  "/inventory/page": "app/inventory/page.js",
   "/budget/page": "app/budget/page.js",
   "/compliance/page": "app/compliance/page.js",
   "/formulas/page": "app/formulas/page.js",
-  "/inventory/page": "app/inventory/page.js",
-  "/page": "app/page.js",
+  "/batch-tracking/page": "app/batch-tracking/page.js",
   "/login/page": "app/login/page.js"
 }
