@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/github/stars/ALPHA-TF141/PharmaTrack?style=social" />
   <img src="https://img.shields.io/github/forks/ALPHA-TF141/PharmaTrack?style=social" />
   <img src="https://img.shields.io/github/issues/ALPHA-TF141/PharmaTrack" />
-  <img src="https://img.shields.io/github/license/ALPHA-TF141/PharmaTrack" />
 </p>
 
 
@@ -16,8 +15,6 @@
 
 **PharmaTrack** is a **pharmacy management and tracking web application** built using modern full-stack technologies.  
 It helps pharmacists manage inventory, track medication data, and streamline operations.
-
-(This project is based on open-source inspiration and structured for maintainability & scalability.) :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -29,7 +26,6 @@ It helps pharmacists manage inventory, track medication data, and streamline ope
 - 🔐 Authentication & role access  
 - 📈 Structured codebase with frontend + backend components
 
-*(Add any specific features from your actual code here)*
 
 ---
 
